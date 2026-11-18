@@ -1,0 +1,20 @@
+.box > div{
+    height: 250px;
+}
+
+
+.box.blueviolet > div{
+    background-color: blueviolet;
+}
+
+.box.yellowgreen > div{
+    background-color: yellowgreen;
+}
+
+.box.orange > div{
+    background-color: orange;
+}
+
+.box.hotpink > div{
+    background-color: hotpink;
+}
